@@ -17,7 +17,7 @@ Het is ook mogelijk om de repository te clonen en op volgende wijze te installer
 
 Onder de screenshots staat ook mijn motivatie uitgeschreven, indien jullie dat wensen te overlezen na het luisteren.
 
-![alt imageApp](src/assets/Screenshot%202022-06-24%20at%2015.08.46.png) ![alt imageApp](src/assets/Screenshot%202022-06-24%20at%2015.09.29.png)
+![alt imageApp](src/assets/ScreenshotA.png) ![alt imageApp](src/assets/ScreenshotB.png)
 
 
 
