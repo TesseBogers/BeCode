@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55329f89-2884-46e8-8da8-15c606e04e78" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/assets/ScreenshotA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/ScreenshotB.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
@@ -72,7 +74,7 @@
       <updated>1656071992031</updated>
       <workItem from="1656071993402" duration="2538000" />
       <workItem from="1656077351345" duration="733000" />
-      <workItem from="1656078698153" duration="2297000" />
+      <workItem from="1656078698153" duration="2732000" />
     </task>
     <servers />
   </component>
