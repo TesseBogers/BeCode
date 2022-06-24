@@ -17,6 +17,7 @@
   header {
     background: url('assets/91250.jpg') no-repeat center center fixed;
     background-size: cover;
+    position: relative;
   }
 
   header {
@@ -38,13 +39,7 @@
     padding: 24px 48px;
     font-size: 30px;
     color: #1a6d56;
-  }
-
-  header button:hover {
-    cursor: pointer;
-    box-shadow: #1a6d56;
-
-    text-decoration: underline;
+    position: relative;
   }
 
   header h1 {
@@ -55,7 +50,7 @@
 
   main {
     display: flex;
-    /*position: fixed;*/
+    position: relative;
     flex-direction: row;
     justify-content: space-between;
     padding: 100px;
