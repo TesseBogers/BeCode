@@ -38,6 +38,7 @@ const App = ({ url }) => {
 
   return (
       <>
+        <body>
         <header>
           <h1>Tesse Bogers</h1>
           <article className="becode">
@@ -75,6 +76,7 @@ const App = ({ url }) => {
               image={movie} title={movie}
           />
         </main>
+        </body>
       </>
   );
 }
